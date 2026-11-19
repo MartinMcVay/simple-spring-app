@@ -1,5 +1,3 @@
-I am a README file version 2.
-
 ## Simple Spring App
 
 A minimal Spring Boot web application.
